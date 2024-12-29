@@ -30,7 +30,7 @@ $ docker build -t ofertoio/poc-angular .
 
 Login in docker hub oferto account
 ```
-$ docker login
+$ docker login -u ofertoio
 ```
 
 Push the image to docker hub oferto account
